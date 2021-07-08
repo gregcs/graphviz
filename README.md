@@ -1,6 +1,6 @@
 # Graph visualization
 
-Jupyter notebooks on graph visualization presented for the **Scientific visualization** course.
+Jupyter notebooks on graph visualization presented for the **Scientific visualization** course at UNIMI.
 
 
 ![alt text](https://github.com/gregcs/graphviz/blob/main/images/got.PNG)
